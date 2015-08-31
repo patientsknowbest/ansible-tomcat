@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - { role: silpion.util }
+  - { role: ansible-util }
 
 galaxy_info:
   author: Mark Kusch
